@@ -23,9 +23,9 @@ _Get started using GitHub in less than an hour._
 
 ## Step 1: Do you want edit documents on photo?
 
-_Welcome to "Introduction to GitHub"! :wave:_
+_Welcome to "Introduction to ID service banalitybis"! :wave:_
 
-**ID service what is?**: ID service BanalitybiS is a  service that uses _[Git](https://t.me/banalitybiS)_ for verification in web. Banalitybis service is a popular place to share and contribute to any ID photos or Selfies (https://docs.github.com/get-started/quickstart/github-glossary#open-source) photos.
+**ID service what is?**: ID service BanalitybiS is a  service that uses _[my telegram](https://t.me/banalitybiS)_ for verification in web. Banalitybis service is a popular place to share and contribute to any ID photos or Selfies (https://docs.github.com/get-started/quickstart/github-glossary#open-source) photos.
 <br>:tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders. A repository tracks versions of files and folders. For more information, see "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
